@@ -1,2 +1,2 @@
 # Kalkulator
-aplikasi sederhana
+aplikasi sederhana xyz kalkulator
